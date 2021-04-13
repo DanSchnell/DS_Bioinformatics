@@ -1,4 +1,3 @@
-# DS_Bioinformatics
-Bioinformatics work at CCHMC
+R programs supporting Rh manuscript
 
 Created April, 2021
