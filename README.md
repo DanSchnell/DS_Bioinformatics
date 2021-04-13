@@ -1,4 +1,4 @@
-R programs supporting Rh manuscript
+Selected R programs supporting the Rh manuscript
 
 Created April, 2021
 
